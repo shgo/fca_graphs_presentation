@@ -1,0 +1,15 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{An Introduction to Ordered Sets and Lattices}{7}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Formal Concept Analysis}{19}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Formal Concept Computation}{31}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Extending FCA to Graphs}{50}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Graph-FCA in Practice}{87}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Conclusions}{113}{0}{6}

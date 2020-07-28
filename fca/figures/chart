@@ -1,0 +1,15 @@
+digraph "Família do Alan" {
+	Nilson
+	"Cássia"
+	Aline
+	Amanda
+	"Alan Godoy"
+	Beatriz
+		Beatriz -> Aline
+		Aline -> Nilson
+		"Alan Godoy" -> Nilson
+		Amanda -> Nilson
+		Aline -> "Cássia"
+		"Alan Godoy" -> "Cássia"
+		Amanda -> "Cássia"
+}
